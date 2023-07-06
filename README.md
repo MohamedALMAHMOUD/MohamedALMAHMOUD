@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MohamedALMAHMOUD
 - 👀 I’m interested in Data
-- 🌱 I’m currently learning data science
+- 🌱 I’m currently improving my competence in data science
 - 💞️ I’m looking to collaborate on NLP and LLM
 - 📫 How to reach me : https://bit.ly/3CYGyg1
 
