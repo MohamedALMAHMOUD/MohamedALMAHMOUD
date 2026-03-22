@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data
 - 🌱 I’m currently improving my competence in data science
 - 💞️ I’m looking to collaborate on NLP and LLM
-- 📫 How to reach me : https://bit.ly/3CYGyg1
+- 📫 How to reach me : 
 
 <!---
 MohamedALMAHMOUD/MohamedALMAHMOUD is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
